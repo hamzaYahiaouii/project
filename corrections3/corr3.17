@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+chown root:root /etc/docker/daemon.json
+
+echo "Done"
+echo "*Done*"

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+chown root:root /run/containerd/containerd.sock
+
+echo "Done"
+echo "*Done*"

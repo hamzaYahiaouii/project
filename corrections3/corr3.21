@@ -1,0 +1,6 @@
+#!/bin/bash
+
+chown root:root /etc/sysconfig/docker
+
+echo "Done"
+echo "*Done*"
